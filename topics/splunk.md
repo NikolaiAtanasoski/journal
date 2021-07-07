@@ -1,0 +1,1 @@
+index=websphere host=s01ttwas* 
