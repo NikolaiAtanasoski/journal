@@ -1,0 +1,1372 @@
+{
+    "guid": "root________",
+    "title": "",
+    "index": 0,
+    "dateAdded": 1594395259314000,
+    "lastModified": 1625740964491000,
+    "id": 1,
+    "typeCode": 2,
+    "type": "text/x-moz-place-container",
+    "root": "placesRoot",
+    "children": [
+        {
+            "guid": "menu________",
+            "title": "menu",
+            "index": 0,
+            "dateAdded": 1578653311490000,
+            "lastModified": 1610979256646000,
+            "id": 2,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "bookmarksMenuFolder",
+            "children": [
+                {
+                    "guid": "eoEgkx0eZtfv",
+                    "title": "Mozilla Firefox",
+                    "index": 0,
+                    "dateAdded": 1578653311490000,
+                    "lastModified": 1578653311490000,
+                    "id": 7,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "QWMQy1F5Mcgs",
+                            "title": "Hilfe und Anleitungen",
+                            "index": 0,
+                            "dateAdded": 1578653311490000,
+                            "lastModified": 1578653311490000,
+                            "id": 8,
+                            "typeCode": 1,
+                            "iconuri": "fake-favicon-uri:https://support.mozilla.org/de/products/firefox",
+                            "type": "text/x-moz-place",
+                            "uri": "https://support.mozilla.org/de/products/firefox"
+                        },
+                        {
+                            "guid": "YWvYnAgY1Mt7",
+                            "title": "Firefox anpassen",
+                            "index": 1,
+                            "dateAdded": 1578653311490000,
+                            "lastModified": 1578653311490000,
+                            "id": 9,
+                            "typeCode": 1,
+                            "iconuri": "fake-favicon-uri:https://support.mozilla.org/de/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize",
+                            "type": "text/x-moz-place",
+                            "uri": "https://support.mozilla.org/de/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+                        },
+                        {
+                            "guid": "Pi28sFzEX3GF",
+                            "title": "Machen Sie mit",
+                            "index": 2,
+                            "dateAdded": 1578653311490000,
+                            "lastModified": 1578653311490000,
+                            "id": 10,
+                            "typeCode": 1,
+                            "iconuri": "fake-favicon-uri:https://www.mozilla.org/de/contribute/",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.mozilla.org/de/contribute/"
+                        },
+                        {
+                            "guid": "CouYH83qn4Lv",
+                            "title": "Über uns",
+                            "index": 3,
+                            "dateAdded": 1578653311490000,
+                            "lastModified": 1578653311490000,
+                            "id": 11,
+                            "typeCode": 1,
+                            "iconuri": "fake-favicon-uri:https://www.mozilla.org/de/about/",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.mozilla.org/de/about/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "wPb8mz3quXTZ",
+                    "title": "Search dict.cc",
+                    "index": 1,
+                    "dateAdded": 1610979256646000,
+                    "lastModified": 1610979271186000,
+                    "id": 110,
+                    "typeCode": 1,
+                    "type": "text/x-moz-place",
+                    "uri": "https://www.dict.cc/?s=%s",
+                    "keyword": "dict",
+                    "postData": null
+                }
+            ]
+        },
+        {
+            "guid": "toolbar_____",
+            "title": "toolbar",
+            "index": 1,
+            "dateAdded": 1594395259314000,
+            "lastModified": 1625740964491000,
+            "id": 3,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "toolbarFolder",
+            "children": [
+                {
+                    "guid": "SAndxqD1Rv6a",
+                    "title": "java",
+                    "index": 0,
+                    "dateAdded": 1579857621940000,
+                    "lastModified": 1625734720762000,
+                    "id": 12,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "Yix23MztiS0P",
+                            "title": "Unicode Umlaute",
+                            "index": 0,
+                            "dateAdded": 1579857627271000,
+                            "lastModified": 1612967285217000,
+                            "id": 13,
+                            "typeCode": 1,
+                            "iconuri": "http://javawiki.sowas.com/lib/tpl/monobook/user/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "http://javawiki.sowas.com/doku.php?id=java:unicode"
+                        },
+                        {
+                            "guid": "DZkocI2hrFYu",
+                            "title": "JAXB - Marshal and Unmarshal List or Set of Objects - HowToDoInJava",
+                            "index": 1,
+                            "dateAdded": 1580291754102000,
+                            "lastModified": 1580291754102000,
+                            "id": 14,
+                            "typeCode": 1,
+                            "iconuri": "https://i2.wp.com/howtodoinjava.com/wp-content/uploads/2015/05/howtodoinjava_logo-55696c1cv1_site_icon.png?fit=192%2C192&ssl=1",
+                            "type": "text/x-moz-place",
+                            "uri": "https://howtodoinjava.com/jaxb/jaxb-exmaple-marshalling-and-unmarshalling-list-or-set-of-objects/"
+                        },
+                        {
+                            "guid": "bEcYH8qc34tS",
+                            "title": "Stephen Colebourne's blog: Converting from Joda-Time to java.time",
+                            "index": 2,
+                            "dateAdded": 1591268408862000,
+                            "lastModified": 1591268408862000,
+                            "id": 15,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html"
+                        },
+                        {
+                            "guid": "JEbuidTdIQqI",
+                            "title": "tryjshell.org | Java 9 through 15's JShell",
+                            "index": 3,
+                            "dateAdded": 1605776818353000,
+                            "lastModified": 1605776818353000,
+                            "id": 84,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://tryjshell.org/"
+                        },
+                        {
+                            "guid": "Ei8QE3T04MJb",
+                            "title": "2005_Bookmatter_ProApacheLog4j.pdf",
+                            "index": 4,
+                            "dateAdded": 1606747602910000,
+                            "lastModified": 1606747602910000,
+                            "id": 87,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "file:///D:/dokumente/2005_Bookmatter_ProApacheLog4j.pdf"
+                        },
+                        {
+                            "guid": "USD1_nIeVlli",
+                            "title": "Updating version numbers of modules in a multi-module Maven project - Stack Overflow",
+                            "index": 5,
+                            "dateAdded": 1610448432902000,
+                            "lastModified": 1610448432902000,
+                            "id": 105,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/5726291/updating-version-numbers-of-modules-in-a-multi-module-maven-project"
+                        },
+                        {
+                            "guid": "UanOyvKE18N6",
+                            "title": "java - How to find the JVM version from a program? - Stack Overflow",
+                            "index": 6,
+                            "dateAdded": 1619531035597000,
+                            "lastModified": 1619531035597000,
+                            "id": 142,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/5103121/how-to-find-the-jvm-version-from-a-program"
+                        },
+                        {
+                            "guid": "lm4hycoEFlvh",
+                            "title": "Spring HATEOAS: Hypermedia-Driven RESTful Web Services",
+                            "index": 7,
+                            "dateAdded": 1623669709477000,
+                            "lastModified": 1623669709477000,
+                            "id": 155,
+                            "typeCode": 1,
+                            "iconuri": "https://stackabuse.com/assets/images/apple-touch-icon.png?v=5a944ffbf3",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackabuse.com/spring-hateoas-hypermedia-driven-restful-web-services/"
+                        },
+                        {
+                            "guid": "0XgkW2r4d6d-",
+                            "title": "java - Add links into projection's nested object - Stack Overflow",
+                            "index": 8,
+                            "dateAdded": 1623669711879000,
+                            "lastModified": 1623669711879000,
+                            "id": 156,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/30327429/add-links-into-projections-nested-object"
+                        },
+                        {
+                            "guid": "lTzPofzDOFGn",
+                            "title": "hibernate",
+                            "index": 9,
+                            "dateAdded": 1604588002184000,
+                            "lastModified": 1625734335123000,
+                            "id": 68,
+                            "typeCode": 2,
+                            "type": "text/x-moz-place-container",
+                            "children": [
+                                {
+                                    "guid": "7V5AQ5vMDmv4",
+                                    "title": "Microsoft Word - Hibernate_JDBC.doc - Java_Hibernate_JDBC.pdf",
+                                    "index": 0,
+                                    "dateAdded": 1604588007606000,
+                                    "lastModified": 1604588007606000,
+                                    "id": 69,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.mindfiresolutions.com/mindfire/Java_Hibernate_JDBC.pdf"
+                                },
+                                {
+                                    "guid": "zfawdRpXGQm_",
+                                    "title": "Hibernate - Configuration - Tutorialspoint",
+                                    "index": 1,
+                                    "dateAdded": 1604588011174000,
+                                    "lastModified": 1604588011174000,
+                                    "id": 70,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.tutorialspoint.com/hibernate/hibernate_configuration.htm"
+                                },
+                                {
+                                    "guid": "sicEYqrCrqWz",
+                                    "title": "Hibernate Hello World Tutorial for Beginners with Eclipse and MySQL",
+                                    "index": 2,
+                                    "dateAdded": 1604588014409000,
+                                    "lastModified": 1604588021022000,
+                                    "id": 71,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.codejava.net/templates/protostar/favicon.ico",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.codejava.net/frameworks/hibernate/hibernate-hello-world-tutorial-for-beginners-with-eclipse-and-mysql"
+                                },
+                                {
+                                    "guid": "h9ezCDgAgDmD",
+                                    "title": "Hibernate EntityManager",
+                                    "index": 3,
+                                    "dateAdded": 1604588024887000,
+                                    "lastModified": 1604588031074000,
+                                    "id": 72,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://docs.jboss.org/hibernate/entitymanager/3.6/reference/en/html_single/"
+                                },
+                                {
+                                    "guid": "iqus_x47awn6",
+                                    "title": "Guide to the Hibernate EntityManager | Baeldung",
+                                    "index": 4,
+                                    "dateAdded": 1604588034235000,
+                                    "lastModified": 1604588036136000,
+                                    "id": 73,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.baeldung.com/wp-content/themes/baeldung/favicon/favicon-16x16.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.baeldung.com/hibernate-entitymanager"
+                                },
+                                {
+                                    "guid": "tMAjsRhg2y29",
+                                    "title": "A Guide to DeltaSpike Data Module | Baeldung",
+                                    "index": 5,
+                                    "dateAdded": 1604588040990000,
+                                    "lastModified": 1604588043487000,
+                                    "id": 74,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.baeldung.com/wp-content/themes/baeldung/favicon/favicon-16x16.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.baeldung.com/deltaspike-data-module"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "hA-2TCdzA22S",
+                    "title": "linux",
+                    "index": 1,
+                    "dateAdded": 1587976409847000,
+                    "lastModified": 1625734510926000,
+                    "id": 19,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "g5Gh6CF6b6Vc",
+                            "title": "bash - What are the special dollar sign shell variables? - Stack Overflow",
+                            "index": 0,
+                            "dateAdded": 1587976416186000,
+                            "lastModified": 1587976416186000,
+                            "id": 20,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables"
+                        },
+                        {
+                            "guid": "7deJuGDb78VG",
+                            "title": "The Linux command line for beginner | Ubuntu",
+                            "index": 1,
+                            "dateAdded": 1587479040469000,
+                            "lastModified": 1587976417790000,
+                            "id": 21,
+                            "typeCode": 1,
+                            "iconuri": "https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://ubuntu.com/tutorials/command-line-for-beginners#1-overview"
+                        },
+                        {
+                            "guid": "-3lBqPj62y3Q",
+                            "title": "sed.sf.net - The sed $HOME",
+                            "index": 2,
+                            "dateAdded": 1589200392542000,
+                            "lastModified": 1589200392542000,
+                            "id": 22,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "http://sed.sourceforge.net/"
+                        },
+                        {
+                            "guid": "o88OEJuGfetq",
+                            "title": "Understanding File Permissions",
+                            "index": 3,
+                            "dateAdded": 1600845748514000,
+                            "lastModified": 1600845748514000,
+                            "id": 47,
+                            "typeCode": 1,
+                            "iconuri": "https://www.elated.com/wp-content/uploads/2019/03/favicon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.elated.com/understanding-permissions/"
+                        },
+                        {
+                            "guid": "cd9JFkDIqD8w",
+                            "title": "Chmod 744",
+                            "index": 4,
+                            "dateAdded": 1600845759601000,
+                            "lastModified": 1600845759601000,
+                            "id": 48,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://chmodcommand.com/chmod-744/"
+                        },
+                        {
+                            "guid": "YylnLclWcTj0",
+                            "title": "Connect to an Oracle Database and run a query from a Bash script | zwbetz",
+                            "index": 5,
+                            "dateAdded": 1603116232740000,
+                            "lastModified": 1603116232740000,
+                            "id": 53,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://zwbetz.com/connect-to-an-oracle-database-and-run-a-query-from-a-bash-script/"
+                        },
+                        {
+                            "guid": "Th3--_1zFIpb",
+                            "title": "Easy Bash Prompt Generator",
+                            "index": 6,
+                            "dateAdded": 1603177995709000,
+                            "lastModified": 1603177995709000,
+                            "id": 55,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "http://ezprompt.net/"
+                        },
+                        {
+                            "guid": "7BuBu-uj3gL_",
+                            "title": "Safer bash scripts with 'set -euxo pipefail' · vaneyckt.io",
+                            "index": 7,
+                            "dateAdded": 1603368907820000,
+                            "lastModified": 1603368907820000,
+                            "id": 63,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/"
+                        },
+                        {
+                            "guid": "flKH6MgtN-uZ",
+                            "title": "Killing a process and all of its descendants — by Igor Šarčević",
+                            "index": 8,
+                            "dateAdded": 1605112032458000,
+                            "lastModified": 1605112032458000,
+                            "id": 78,
+                            "typeCode": 1,
+                            "iconuri": "http://morningcoffee.io/favicon.svg",
+                            "type": "text/x-moz-place",
+                            "uri": "http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html"
+                        },
+                        {
+                            "guid": "ZOrJBMu7qmcC",
+                            "title": "Illustrated Redirection Tutorial [Bash Hackers Wiki]",
+                            "index": 9,
+                            "dateAdded": 1610535650800000,
+                            "lastModified": 1610535650800000,
+                            "id": 106,
+                            "typeCode": 1,
+                            "iconuri": "https://wiki.bash-hackers.org/lib/tpl/bootstrap3/images/apple-touch-icon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://wiki.bash-hackers.org/howto/redirection_tutorial"
+                        },
+                        {
+                            "guid": "M1qtTeEcVJs0",
+                            "title": "Print all 256 colors for testing TERM or for a quick reference",
+                            "index": 10,
+                            "dateAdded": 1616415064949000,
+                            "lastModified": 1616415064949000,
+                            "id": 126,
+                            "typeCode": 1,
+                            "iconuri": "https://www.commandlinefu.com/images/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.commandlinefu.com/commands/view/6533/print-all-256-colors-for-testing-term-or-for-a-quick-reference"
+                        },
+                        {
+                            "guid": "wrkz-0zrLO5f",
+                            "title": "How To Use Bash Parameter Substitution Like A Pro - nixCraft",
+                            "index": 11,
+                            "dateAdded": 1617284537689000,
+                            "lastModified": 1617284537689000,
+                            "id": 128,
+                            "typeCode": 1,
+                            "iconuri": "https://www.cyberciti.biz/tips/wp-content/uploads/2018/11/new_icon_amp.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html"
+                        },
+                        {
+                            "guid": "WNYesB-2DTk_",
+                            "title": "Best Practices for Bash Scripts. A 4-minute guide to reliable… | by Akshay Kapoor | Better Programming | Medium",
+                            "index": 12,
+                            "dateAdded": 1603280468417000,
+                            "lastModified": 1625734484629000,
+                            "id": 60,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://medium.com/better-programming/best-practices-for-bash-scripts-17229889774d"
+                        },
+                        {
+                            "guid": "aMd6Qedny5xo",
+                            "title": "ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+                            "index": 13,
+                            "dateAdded": 1601026684063000,
+                            "lastModified": 1625734510926000,
+                            "id": 50,
+                            "typeCode": 1,
+                            "iconuri": "https://github.githubassets.com/favicons/favicon.svg",
+                            "type": "text/x-moz-place",
+                            "uri": "https://github.com/ohmyzsh/ohmyzsh"
+                        }
+                    ]
+                },
+                {
+                    "guid": "tRYsiIB-qMCf",
+                    "title": "win",
+                    "index": 2,
+                    "dateAdded": 1618313772861000,
+                    "lastModified": 1618313779788000,
+                    "id": 129,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "9-qqeLhIKTsi",
+                            "title": "The Complete Guide to Creating Symbolic Links (aka Symlinks) on Windows",
+                            "index": 0,
+                            "dateAdded": 1618313779788000,
+                            "lastModified": 1618313779788000,
+                            "id": 130,
+                            "typeCode": 1,
+                            "iconuri": "https://www.howtogeek.com/public/images/192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "yUHU028Xt5EA",
+                    "title": "cheatsheets",
+                    "index": 4,
+                    "dateAdded": 1600081130893000,
+                    "lastModified": 1625734675983000,
+                    "id": 44,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "TnFG7eXLPbQf",
+                            "title": "IntelliJ IDEA Cheat Sheet | ShortcutFoo",
+                            "index": 0,
+                            "dateAdded": 1600081137367000,
+                            "lastModified": 1600081137367000,
+                            "id": 45,
+                            "typeCode": 1,
+                            "iconuri": "https://www.shortcutfoo.com/assets/apple-touch-icon-c07598f155d95929a5fa39ff4b591dd1bff65db7431b0bcdf146ee65feec4707.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.shortcutfoo.com/app/dojos/intellij-idea-win/cheatsheet"
+                        },
+                        {
+                            "guid": "a9CA7SNMnGNK",
+                            "title": "Vim Cheat Sheet",
+                            "index": 1,
+                            "dateAdded": 1588063297834000,
+                            "lastModified": 1600081142165000,
+                            "id": 23,
+                            "typeCode": 1,
+                            "iconuri": "https://vim.rtorr.com/images/icons/icon-48x48.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://vim.rtorr.com/"
+                        },
+                        {
+                            "guid": "QkCng2-3DajO",
+                            "title": "Google Search Engine Optimization(SEO) Cheat Sheet Cheat Sheet by SerenaHoenn - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion",
+                            "index": 2,
+                            "dateAdded": 1607080826616000,
+                            "lastModified": 1607080826616000,
+                            "id": 95,
+                            "typeCode": 1,
+                            "iconuri": "https://cheatography.com/images/cheatography-iphone.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://cheatography.com/serenahoenn/cheat-sheets/google-search-engine-optimization-seo-cheat-sheet/"
+                        },
+                        {
+                            "guid": "qZMbo0zpk839",
+                            "title": "An SEO Guide to Advanced Google Search Operators",
+                            "index": 3,
+                            "dateAdded": 1607080863337000,
+                            "lastModified": 1607080863337000,
+                            "id": 96,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/sej-5e26ffd8aa1d8.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.searchenginejournal.com/google-search-operators-commands/215331/"
+                        },
+                        {
+                            "guid": "QSlEt3LaGSTY",
+                            "title": "HTTP Status cheatsheet",
+                            "index": 4,
+                            "dateAdded": 1608131733634000,
+                            "lastModified": 1608131733634000,
+                            "id": 102,
+                            "typeCode": 1,
+                            "iconuri": "https://devhints.io/assets/favicon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://devhints.io/http-status"
+                        },
+                        {
+                            "guid": "wMSNGGxC8KBp",
+                            "title": "Google Search Operators: The Complete List (42 Advanced Operators)",
+                            "index": 5,
+                            "dateAdded": 1606999381844000,
+                            "lastModified": 1610465553130000,
+                            "id": 91,
+                            "typeCode": 1,
+                            "iconuri": "https://ahrefs.com/blog/wp-content/themes/Ahrefs-4/images/favicons/apple-touch-icon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://ahrefs.com/blog/google-advanced-search-operators/"
+                        },
+                        {
+                            "guid": "NasobMqTWEaX",
+                            "title": "141 Shortcuts for IntelliJ",
+                            "index": 6,
+                            "dateAdded": 1610988243899000,
+                            "lastModified": 1610988243899000,
+                            "id": 111,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://shortcutworld.com/IntelliJ-IDEA/win/IntelliJ_Shortcuts"
+                        },
+                        {
+                            "guid": "VLqEIFY2xoBF",
+                            "title": "Shell Commands List for Windows 10 | Tutorials",
+                            "index": 7,
+                            "dateAdded": 1616664781113000,
+                            "lastModified": 1616664781113000,
+                            "id": 127,
+                            "typeCode": 1,
+                            "iconuri": "https://www.tenforums.com/fav/favicon-16x16.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.tenforums.com/tutorials/3109-shell-commands-list-windows-10-a.html"
+                        },
+                        {
+                            "guid": "87xcLqcVrUPI",
+                            "title": "Git cheat sheet | Atlassian Git Tutorial",
+                            "index": 8,
+                            "dateAdded": 1622469887349000,
+                            "lastModified": 1622469887349000,
+                            "id": 154,
+                            "typeCode": 1,
+                            "iconuri": "https://wac-cdn.atlassian.com/assets/img/favicons/gitguide/apple-touch-icon-152x152.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet"
+                        },
+                        {
+                            "guid": "NqDHwsgGnptJ",
+                            "title": "Oh Shit, Git!?!",
+                            "index": 9,
+                            "dateAdded": 1620737652344000,
+                            "lastModified": 1625734675983000,
+                            "id": 147,
+                            "typeCode": 1,
+                            "iconuri": "https://ohshitgit.com/favicon-16x16.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://ohshitgit.com/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "cylLZunZWvOj",
+                    "title": "tools",
+                    "index": 5,
+                    "dateAdded": 1602235962606000,
+                    "lastModified": 1625740964491000,
+                    "id": 51,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "rDoLV9-9gPUc",
+                            "title": "RegExr: Learn, Build, & Test RegEx",
+                            "index": 0,
+                            "dateAdded": 1602235967744000,
+                            "lastModified": 1602235967744000,
+                            "id": 52,
+                            "typeCode": 1,
+                            "iconuri": "https://regexr.com/assets/icons/apple-touch-icon.png?1",
+                            "type": "text/x-moz-place",
+                            "uri": "https://regexr.com/"
+                        },
+                        {
+                            "guid": "0VEdYR8G-vc-",
+                            "title": "Time Calculator",
+                            "index": 1,
+                            "dateAdded": 1603452499402000,
+                            "lastModified": 1625734349977000,
+                            "id": 64,
+                            "typeCode": 1,
+                            "iconuri": "https://d26tpo4cm8sb6k.cloudfront.net/apple-touch-icon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.calculator.net/time-calculator.html"
+                        }
+                    ]
+                },
+                {
+                    "guid": "kf9pnxTR32Ms",
+                    "title": "errors",
+                    "index": 6,
+                    "dateAdded": 1605108884600000,
+                    "lastModified": 1607087351293000,
+                    "id": 77,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "MtJgKoweIZow",
+                            "title": "bash - `set -e` and `grep` idiom for preventing premature exit from shell script when pattern not found - Unix & Linux Stack Exchange",
+                            "index": 0,
+                            "dateAdded": 1605108881694000,
+                            "lastModified": 1605108888642000,
+                            "id": 76,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/unix/Img/favicon.ico?v=fb86ccabb921",
+                            "type": "text/x-moz-place",
+                            "uri": "https://unix.stackexchange.com/questions/235017/set-e-and-grep-idiom-for-preventing-premature-exit-from-shell-script-when-p"
+                        },
+                        {
+                            "guid": "mKnYB4h0Fnx6",
+                            "title": "Using the RR Format : TO_DATE « Date Timestamp Functions « Oracle PL/SQL Tutorial",
+                            "index": 1,
+                            "dateAdded": 1605774980690000,
+                            "lastModified": 1607087351293000,
+                            "id": 81,
+                            "typeCode": 1,
+                            "iconuri": "http://www.java2s.com/style/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "http://www.java2s.com/Tutorial/Oracle/0260__Date-Timestamp-Functions/UsingtheRRFormat.htm"
+                        }
+                    ]
+                },
+                {
+                    "guid": "IQTyOxxkaugY",
+                    "title": "learn",
+                    "index": 7,
+                    "dateAdded": 1606841679919000,
+                    "lastModified": 1625735590534000,
+                    "id": 88,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "NnBROa4gSO2X",
+                            "title": "Variables - Java Programming",
+                            "index": 0,
+                            "dateAdded": 1604922560311000,
+                            "lastModified": 1606841686644000,
+                            "id": 75,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://java-programming.mooc.fi/part-1/4-variables"
+                        },
+                        {
+                            "guid": "F0YA5JoLXX3m",
+                            "title": "Loading...",
+                            "index": 1,
+                            "dateAdded": 1606841699088000,
+                            "lastModified": 1606841699088000,
+                            "id": 89,
+                            "typeCode": 1,
+                            "iconuri": "https://leetcode.com/favicon-192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://leetcode.com/problems/3sum/"
+                        },
+                        {
+                            "guid": "YY3ohk-4AdtY",
+                            "title": "Fullstack part2 | Getting data from server",
+                            "index": 2,
+                            "dateAdded": 1625734690695000,
+                            "lastModified": 1625734690695000,
+                            "id": 169,
+                            "typeCode": 1,
+                            "iconuri": "https://fullstackopen.com/icons/icon-512x512.png?v=6460c405ec32c913ef778f48c5ab192e",
+                            "type": "text/x-moz-place",
+                            "uri": "https://fullstackopen.com/en/part2/getting_data_from_server#exercises-2-11-2-14"
+                        },
+                        {
+                            "guid": "Infcmh3DqFqf",
+                            "title": "Coderbyte",
+                            "index": 3,
+                            "dateAdded": 1599748102827000,
+                            "lastModified": 1625735590534000,
+                            "id": 43,
+                            "typeCode": 1,
+                            "iconuri": "https://coderbytestaticimages.s3.amazonaws.com/favicon_2.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://coderbyte.com/editor/Find%20Intersection:JavaScript"
+                        }
+                    ]
+                },
+                {
+                    "guid": "EsAoqxcGsuF2",
+                    "title": "to-read",
+                    "index": 8,
+                    "dateAdded": 1607087319608000,
+                    "lastModified": 1625735600092000,
+                    "id": 97,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "licWtFMN78qU",
+                            "title": "c++stack - Google Search",
+                            "index": 0,
+                            "dateAdded": 1618843033300000,
+                            "lastModified": 1618989551808000,
+                            "id": 135,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.google.com/search?client=firefox-b-d&q=c%2B%2Bstack"
+                        },
+                        {
+                            "guid": "BErp3RVJF6po",
+                            "title": "How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks",
+                            "index": 1,
+                            "dateAdded": 1611752707230000,
+                            "lastModified": 1620724741870000,
+                            "id": 118,
+                            "typeCode": 1,
+                            "iconuri": "https://www.html5rocks.com/static/images/identity/HTML5_Badge_64.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+                        },
+                        {
+                            "guid": "z0W18weeN8zd",
+                            "title": "Don’t push that button: Exploring the software that flies SpaceX rockets and starships - Stack Overflow Blog",
+                            "index": 2,
+                            "dateAdded": 1621240493419000,
+                            "lastModified": 1621240493419000,
+                            "id": 148,
+                            "typeCode": 1,
+                            "iconuri": "https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/03/cropped-SO_Logo_glyph-use-this-one-smaller-192x192.jpg",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/?cb=1"
+                        },
+                        {
+                            "guid": "bLyN4d_gOqgm",
+                            "title": "Network protocols in orbit: Building a space-based ISP - Stack Overflow Blog",
+                            "index": 3,
+                            "dateAdded": 1621240497568000,
+                            "lastModified": 1621240497568000,
+                            "id": 149,
+                            "typeCode": 1,
+                            "iconuri": "https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/03/cropped-SO_Logo_glyph-use-this-one-smaller-192x192.jpg",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/?cb=1"
+                        },
+                        {
+                            "guid": "1bW1AD46QxiQ",
+                            "title": "How Pitfall Builds its World",
+                            "index": 4,
+                            "dateAdded": 1621240502088000,
+                            "lastModified": 1621240502088000,
+                            "id": 150,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://evoniuk.github.io/posts/pitfall.html"
+                        },
+                        {
+                            "guid": "Gr5JgQ9UHWSC",
+                            "title": "A deeper dive into our May 2019 security incident - Stack Overflow Blog",
+                            "index": 5,
+                            "dateAdded": 1611752711265000,
+                            "lastModified": 1625734418138000,
+                            "id": 119,
+                            "typeCode": 1,
+                            "iconuri": "https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/03/cropped-SO_Logo_glyph-use-this-one-smaller-192x192.jpg",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/?cb=1"
+                        },
+                        {
+                            "guid": "2LVJhHwT6Nkg",
+                            "title": "Refactoring and Design Patterns",
+                            "index": 6,
+                            "dateAdded": 1611303030343000,
+                            "lastModified": 1625735600092000,
+                            "id": 116,
+                            "typeCode": 1,
+                            "iconuri": "https://refactoring.guru/favicon.ico?id=e1894c5648d77c8db9cb",
+                            "type": "text/x-moz-place",
+                            "uri": "https://refactoring.guru/"
+                        }
+                    ]
+                },
+                {
+                    "guid": "iSzYKNZJjyUs",
+                    "title": "side",
+                    "index": 9,
+                    "dateAdded": 1589880045422000,
+                    "lastModified": 1625735600092000,
+                    "id": 24,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "SLYw7rqn2r7t",
+                            "title": "zweierkomplement – Google-Suche",
+                            "index": 0,
+                            "dateAdded": 1589880053060000,
+                            "lastModified": 1589880053060000,
+                            "id": 25,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.google.com/search?q=zweierkomplement&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjSgaXry7_pAhV-aRUIHa4qC5MQ_AUoAXoECBQQAw&biw=1920&bih=984"
+                        },
+                        {
+                            "guid": "xdXNujcJoaDL",
+                            "title": "John Titor - Wikipedia",
+                            "index": 1,
+                            "dateAdded": 1589880058140000,
+                            "lastModified": 1589880058140000,
+                            "id": 26,
+                            "typeCode": 1,
+                            "iconuri": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://en.wikipedia.org/wiki/John_Titor"
+                        },
+                        {
+                            "guid": "VL-4ihsk1Vcf",
+                            "title": "Here are some super secret VS Code hacks to boost your productivity",
+                            "index": 2,
+                            "dateAdded": 1590575341149000,
+                            "lastModified": 1625734500955000,
+                            "id": 29,
+                            "typeCode": 1,
+                            "iconuri": "https://www.freecodecamp.org/news/favicon.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.freecodecamp.org/news/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76/"
+                        },
+                        {
+                            "guid": "Np4hac2pgsUy",
+                            "title": "Red Hat Enterprise Linux – Wikipedia",
+                            "index": 3,
+                            "dateAdded": 1582276815734000,
+                            "lastModified": 1590662750277000,
+                            "id": 30,
+                            "typeCode": 1,
+                            "iconuri": "https://de.wikipedia.org/static/apple-touch/wikipedia.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://de.wikipedia.org/wiki/Red_Hat_Enterprise_Linux"
+                        },
+                        {
+                            "guid": "xEN6UpU4N9Mt",
+                            "title": "go",
+                            "index": 4,
+                            "dateAdded": 1604587984978000,
+                            "lastModified": 1625734467037000,
+                            "id": 65,
+                            "typeCode": 2,
+                            "type": "text/x-moz-place-container",
+                            "children": [
+                                {
+                                    "guid": "HU6lRzBt0dZD",
+                                    "title": "regex-redux description | Computer Language Benchmarks Game",
+                                    "index": 0,
+                                    "dateAdded": 1604587988136000,
+                                    "lastModified": 1604587988136000,
+                                    "id": 66,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://benchmarksgame-team.pages.debian.net/benchmarksgame/description/regexredux.html#regexredux"
+                                },
+                                {
+                                    "guid": "ggc834dLJ8J6",
+                                    "title": "Build a Todolist API Server in Golang | Fadhil Dev Blog",
+                                    "index": 1,
+                                    "dateAdded": 1611583598721000,
+                                    "lastModified": 1611583598721000,
+                                    "id": 117,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://fadhil-blog.dev/blog/golang-todolist/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "8RQrZS35M6Kl",
+                    "title": "sql",
+                    "index": 10,
+                    "dateAdded": 1607521585046000,
+                    "lastModified": 1625734488704000,
+                    "id": 98,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "Xf0VdyCl6w-A",
+                            "title": "GiantHeron4NNydR4 @ shrib.com",
+                            "index": 0,
+                            "dateAdded": 1607523218295000,
+                            "lastModified": 1607523218295000,
+                            "id": 99,
+                            "typeCode": 1,
+                            "iconuri": "https://shrib.com/zuex/icons/android-icon-192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://shrib.com/#GiantHeron4NNydR4"
+                        },
+                        {
+                            "guid": "mHam7XzUcAZa",
+                            "title": "sql - Oracle query to fetch column names - Stack Overflow",
+                            "index": 1,
+                            "dateAdded": 1607523221390000,
+                            "lastModified": 1607523221390000,
+                            "id": 100,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/8739203/oracle-query-to-fetch-column-names"
+                        },
+                        {
+                            "guid": "-QHUsmPdjiEL",
+                            "title": "How to check whether Oracle table is being used | TwelveC",
+                            "index": 2,
+                            "dateAdded": 1608032949654000,
+                            "lastModified": 1608032949654000,
+                            "id": 101,
+                            "typeCode": 1,
+                            "iconuri": "https://s0.wp.com/i/webclip.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://twelvec.com/tag/how-to-check-whether-oracle-table-is-being-used/"
+                        },
+                        {
+                            "guid": "BFdj7HTDsb3e",
+                            "title": "oracle - How to search a column name within all tables of a database at specific schema - Stack Overflow",
+                            "index": 3,
+                            "dateAdded": 1610960752986000,
+                            "lastModified": 1610960752986000,
+                            "id": 109,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                            "type": "text/x-moz-place",
+                            "uri": "https://stackoverflow.com/questions/27128372/how-to-search-a-column-name-within-all-tables-of-a-database-at-specific-schema"
+                        },
+                        {
+                            "guid": "xG3I9OHCwVoP",
+                            "title": "PL/SQL - Basic Syntax - Tutorialspoint",
+                            "index": 4,
+                            "dateAdded": 1587630749071000,
+                            "lastModified": 1625734488704000,
+                            "id": 27,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.tutorialspoint.com/plsql/plsql_basic_syntax.htm"
+                        }
+                    ]
+                },
+                {
+                    "guid": "8OGbrAQY3TBA",
+                    "title": "buy",
+                    "index": 11,
+                    "dateAdded": 1612442875619000,
+                    "lastModified": 1612442882731000,
+                    "id": 124,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "CehXH-738GMn",
+                            "title": "DELL KB216 Multimedia Keyboard schwarz, USB, DE",
+                            "index": 0,
+                            "dateAdded": 1610721848224000,
+                            "lastModified": 1612442881612000,
+                            "id": 108,
+                            "typeCode": 1,
+                            "iconuri": "https://www.e-tec.at/assets/img/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.e-tec.at/details.php?artnr=246607&hs=DEL"
+                        },
+                        {
+                            "guid": "KWLjrurrn6Ng",
+                            "title": "dell S2721DS - Google Search",
+                            "index": 1,
+                            "dateAdded": 1612277820360000,
+                            "lastModified": 1612442882731000,
+                            "id": 123,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.google.com/search?client=firefox-b-d&q=dell+S2721DS"
+                        }
+                    ]
+                },
+                {
+                    "guid": "hVIJK0ClH0is",
+                    "title": "daily",
+                    "index": 12,
+                    "dateAdded": 1618989868616000,
+                    "lastModified": 1625734431008000,
+                    "id": 138,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "lWQaPDn1A913",
+                            "title": "Ars Technica",
+                            "index": 0,
+                            "dateAdded": 1618989879466000,
+                            "lastModified": 1618989879466000,
+                            "id": 139,
+                            "typeCode": 1,
+                            "iconuri": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://arstechnica.com/"
+                        },
+                        {
+                            "guid": "cJ5BTrjwAf6_",
+                            "title": "Hacker News",
+                            "index": 1,
+                            "dateAdded": 1618989890745000,
+                            "lastModified": 1618989890745000,
+                            "id": 140,
+                            "typeCode": 1,
+                            "type": "text/x-moz-place",
+                            "uri": "https://news.ycombinator.com/news"
+                        },
+                        {
+                            "guid": "AEsBN0RbhbYE",
+                            "title": "programming",
+                            "index": 2,
+                            "dateAdded": 1618994635886000,
+                            "lastModified": 1618994635886000,
+                            "id": 141,
+                            "typeCode": 1,
+                            "iconuri": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.reddit.com/r/programming/"
+                        },
+                        {
+                            "guid": "slmRPfCqb8kW",
+                            "title": "reddit.com: search results - [FRESH ALBUM]",
+                            "index": 3,
+                            "dateAdded": 1605696669183000,
+                            "lastModified": 1625734431008000,
+                            "id": 79,
+                            "typeCode": 1,
+                            "iconuri": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png",
+                            "type": "text/x-moz-place",
+                            "uri": "https://www.reddit.com/search/?q=%5BFRESH%20ALBUM%5D&sort=top&t=month"
+                        }
+                    ]
+                },
+                {
+                    "guid": "GjtZIsF1fBNi",
+                    "title": "sec",
+                    "index": 13,
+                    "dateAdded": 1625734256659000,
+                    "lastModified": 1625734755003000,
+                    "id": 165,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "saabvZV5N9Gz",
+                            "title": "C4n y0u H4ck 1t",
+                            "index": 0,
+                            "dateAdded": 1618843038780000,
+                            "lastModified": 1625734262092000,
+                            "id": 136,
+                            "typeCode": 1,
+                            "iconuri": "https://hack.ainfosec.com/static/canyouhackit/img/favicon.ico",
+                            "type": "text/x-moz-place",
+                            "uri": "https://hack.ainfosec.com/"
+                        },
+                        {
+                            "guid": "SC6IE7R7dYG4",
+                            "title": "cve-2021-1675",
+                            "index": 1,
+                            "dateAdded": 1625140952814000,
+                            "lastModified": 1625734294801000,
+                            "id": 157,
+                            "typeCode": 2,
+                            "type": "text/x-moz-place-container",
+                            "children": [
+                                {
+                                    "guid": "5zAsu7RJk_Tk",
+                                    "title": "Call a dynamically loaded DLL",
+                                    "index": 0,
+                                    "dateAdded": 1625140964825000,
+                                    "lastModified": 1625140964825000,
+                                    "id": 158,
+                                    "typeCode": 1,
+                                    "type": "text/x-moz-place",
+                                    "uri": "http://www.richelbilderbeek.nl/CppGppCallDllDynamic.htm"
+                                },
+                                {
+                                    "guid": "vlltbxPpy-98",
+                                    "title": "PrintNightmare (CVE-2021-1675) PoC Exploit Code Released - Blumira",
+                                    "index": 1,
+                                    "dateAdded": 1625140967896000,
+                                    "lastModified": 1625140967896000,
+                                    "id": 159,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.blumira.com/wp-content/uploads/2020/03/favicon.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.blumira.com/cve-2021-1675/"
+                                },
+                                {
+                                    "guid": "9def4oZccogi",
+                                    "title": "PrintNightmare (CVE-2021-1675): Remote code execution in Windows Spooler Service : netsec",
+                                    "index": 2,
+                                    "dateAdded": 1625140973560000,
+                                    "lastModified": 1625140973560000,
+                                    "id": 160,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.reddit.com/r/netsec/comments/oadasi/printnightmare_cve20211675_remote_code_execution/"
+                                },
+                                {
+                                    "guid": "OTrkEi8mNMMo",
+                                    "title": "PrintNightmare 0-day exploit allows domain takeover : sysadmin",
+                                    "index": 3,
+                                    "dateAdded": 1625140977577000,
+                                    "lastModified": 1625140977577000,
+                                    "id": 161,
+                                    "typeCode": 1,
+                                    "iconuri": "https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://www.reddit.com/r/sysadmin/comments/ob4s06/printnightmare_0day_exploit_allows_domain_takeover/"
+                                },
+                                {
+                                    "guid": "jsA5n0k4m2VD",
+                                    "title": "afwu/PrintNightmare",
+                                    "index": 4,
+                                    "dateAdded": 1625140981521000,
+                                    "lastModified": 1625140981521000,
+                                    "id": 162,
+                                    "typeCode": 1,
+                                    "iconuri": "https://github.githubassets.com/favicons/favicon.svg",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://github.com/afwu/PrintNightmare"
+                                },
+                                {
+                                    "guid": "0aYKD6LwF8YR",
+                                    "title": "cube0x0/CVE-2021-1675: Impacket implementation of CVE-2021-1675",
+                                    "index": 5,
+                                    "dateAdded": 1625140985408000,
+                                    "lastModified": 1625140985408000,
+                                    "id": 163,
+                                    "typeCode": 1,
+                                    "iconuri": "https://github.githubassets.com/favicons/favicon.svg",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://github.com/cube0x0/CVE-2021-1675"
+                                },
+                                {
+                                    "guid": "7Vqc0e55g0-F",
+                                    "title": "CVE-2021-1675 - Security Update Guide - Microsoft - Windows Print Spooler Remote Code Execution Vulnerability",
+                                    "index": 6,
+                                    "dateAdded": 1625140994704000,
+                                    "lastModified": 1625140998577000,
+                                    "id": 164,
+                                    "typeCode": 1,
+                                    "iconuri": "https://msrc.microsoft.com/update-guide/favicon/favicon.svg",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1675"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "guid": "AaE6lr6Kc_Wq",
+                    "title": "web",
+                    "index": 14,
+                    "dateAdded": 1625734303577000,
+                    "lastModified": 1625734440016000,
+                    "id": 167,
+                    "typeCode": 2,
+                    "type": "text/x-moz-place-container",
+                    "children": [
+                        {
+                            "guid": "-TBfmYuIzdxk",
+                            "title": "css",
+                            "index": 0,
+                            "dateAdded": 1611143890437000,
+                            "lastModified": 1625734308266000,
+                            "id": 113,
+                            "typeCode": 2,
+                            "type": "text/x-moz-place-container",
+                            "children": [
+                                {
+                                    "guid": "SZ2Tylc8K22Z",
+                                    "title": "What's the difference between CSS classes .foo.bar (without space) and .foo .bar (with space) - Stack Overflow",
+                                    "index": 0,
+                                    "dateAdded": 1611143895389000,
+                                    "lastModified": 1611143895389000,
+                                    "id": 114,
+                                    "typeCode": 1,
+                                    "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://stackoverflow.com/questions/10036156/whats-the-difference-between-css-classes-foo-bar-without-space-and-foo-bar"
+                                },
+                                {
+                                    "guid": "pbyStfBMYHYb",
+                                    "title": "Beginner Concepts: How CSS Selectors Work | CSS-Tricks",
+                                    "index": 1,
+                                    "dateAdded": 1611143900458000,
+                                    "lastModified": 1611143900458000,
+                                    "id": 115,
+                                    "typeCode": 1,
+                                    "iconuri": "https://css-tricks.com/apple-touch-icon.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://css-tricks.com/how-css-selectors-work/"
+                                }
+                            ]
+                        },
+                        {
+                            "guid": "6cCUhXynZ5VP",
+                            "title": "javascript",
+                            "index": 1,
+                            "dateAdded": 1625734376806000,
+                            "lastModified": 1625734440016000,
+                            "id": 168,
+                            "typeCode": 2,
+                            "type": "text/x-moz-place-container",
+                            "children": [
+                                {
+                                    "guid": "9Rq2-hKQAo0p",
+                                    "title": "debugging - Chrome Development Tool: [VM] file from javascript - Stack Overflow",
+                                    "index": 0,
+                                    "dateAdded": 1618843028471000,
+                                    "lastModified": 1625734409128000,
+                                    "id": 134,
+                                    "typeCode": 1,
+                                    "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://stackoverflow.com/questions/17367560/chrome-development-tool-vm-file-from-javascript"
+                                },
+                                {
+                                    "guid": "EZOEhdvL4PoX",
+                                    "title": "javascript - Why doesn't triggering click() inside a click event listener cause an infinite loop? - Stack Overflow",
+                                    "index": 1,
+                                    "dateAdded": 1620657142504000,
+                                    "lastModified": 1625734421417000,
+                                    "id": 146,
+                                    "typeCode": 1,
+                                    "iconuri": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://stackoverflow.com/questions/67392713/why-doesnt-triggering-click-inside-a-click-event-listener-cause-an-infinite-l"
+                                },
+                                {
+                                    "guid": "ikjcnKCnDbuo",
+                                    "title": "The Modern JavaScript Tutorial",
+                                    "index": 2,
+                                    "dateAdded": 1621418349894000,
+                                    "lastModified": 1625734437727000,
+                                    "id": 152,
+                                    "typeCode": 1,
+                                    "iconuri": "https://javascript.info/img/favicon/apple-touch-icon-precomposed.png",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://javascript.info/"
+                                },
+                                {
+                                    "guid": "j52Ss4KZVqyl",
+                                    "title": "You-Dont-Know-JS/ch1.md at 2nd-ed · getify/You-Dont-Know-JS",
+                                    "index": 3,
+                                    "dateAdded": 1621418345993000,
+                                    "lastModified": 1625734440016000,
+                                    "id": 151,
+                                    "typeCode": 1,
+                                    "iconuri": "https://github.githubassets.com/favicons/favicon.svg",
+                                    "type": "text/x-moz-place",
+                                    "uri": "https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "guid": "unfiled_____",
+            "title": "unfiled",
+            "index": 3,
+            "dateAdded": 1581521390073000,
+            "lastModified": 1625734289234000,
+            "id": 5,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "unfiledBookmarksFolder"
+        },
+        {
+            "guid": "mobile______",
+            "title": "mobile",
+            "index": 4,
+            "dateAdded": 1594395259325000,
+            "lastModified": 1594395259887000,
+            "id": 6,
+            "typeCode": 2,
+            "type": "text/x-moz-place-container",
+            "root": "mobileFolder"
+        }
+    ]
+}
